@@ -16,18 +16,6 @@ Rappresentato utilizzando un array con la relazione tra genitori e figli:
    - Rimozione di un nodo dato il suo indice e solo se é foglia.
    - Stampa del tipo: "Pos 0, Valore: ..., Figliodestro: ..., Figliosinistro: ..."
 
----
-
-Dettagli dell'Esercizio:
-
-**Classe per l'Albero Binario**:
-   - Utilizza un array lineare per rappresentare l'albero:
-     - L'indice \(0\) rappresenta la radice.
-     - La relazione tra i nodi segue la regola \(2i+1\) (figlio sinistro) e \(2i+2\) (figlio destro)
----
-
-Anteprima della Classe:
-
 **Albero Binario:**
 ```cpp
 template <typename T>
