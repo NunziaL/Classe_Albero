@@ -43,9 +43,8 @@ public:
 Testare gli operatori creati su un albero a piacere (caricare nel repository GitHub il disegno (fatelo come preferite) dell'albero utilizzato nel main. Tutti gli alberi devono essere diversi).
    - Creazione di un albero con radice.
    - Inserimento di nodi figli.
-   - Accesso ai figli (per N-ario) o ai figli sinistro e destro (per Binario).
+   - Stampa dei figli sinistro e destro di un nodo a scelta.
    - Rimozione di un nodo.
    - Stampa della struttura dell'albero.
-   - Caricare nel repository GitHub il disegno (fatelo come preferite) dell álbero utilizzato nel main.
 
 ---
