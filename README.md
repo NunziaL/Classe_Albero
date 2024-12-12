@@ -2,7 +2,7 @@
 
 #### 1. Implementare una classe che rappresenti una struttura dati ad **Albero Binario**:
 
-    Rappresentato utilizzando un array con la relazione tra genitori e figli:
+Rappresentato utilizzando un array con la relazione tra genitori e figli:
      - Il **figlio sinistro** di un nodo all'indice \(i\) si trova all'indice \(2i+1\).
      - Il **figlio destro** di un nodo all'indice \(i\) si trova all'indice \(2i+2\).
 
